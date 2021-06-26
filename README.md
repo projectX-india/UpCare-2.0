@@ -11,7 +11,7 @@ Upcare provides end to end solution for healthcare professionals and users. This
 
 1. This application addresses the complete record keeping of patients wherein the doctors can monitor their progress and past records of prescription and test results on the other side patients will feel confident via **Artificial Intelligence** wherein they get a comparison of their treatment with worldwide practice.
 
-2.  this application also minimize the hassles of the patients in terms of minimizing their movement and providing them nearest best solution in terms of laboratories and pharmacy shops
+2.  This application also minimize the hassles of the patients in terms of minimizing their movement and providing them nearest best solution in terms of laboratories and pharmacy shops
 
 3. This application has the option for the patients to buy the medicines at the patient’s page as and when he will click on the link pin and buy the portal will show the medicine shops where all the medicines prescribed by the doctors are available. After choosing the pharmacy shop u can add to cart your medicines.
 
